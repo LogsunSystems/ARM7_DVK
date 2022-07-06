@@ -1,0 +1,2 @@
+# ARM7_DVK
+It is ARM7 (LPC2148) DVK
